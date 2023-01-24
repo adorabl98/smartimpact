@@ -3,13 +3,17 @@
 ## Development start:
 
 npm install
+
 complete the .env template file with the values received.
+
 npm run serve
+
 go to : http://localhost:8081/
 
 ## Build start:
 
 npm install --global serve
+
 run in project root: cd dist && serve
 
 ### Build does not require .env!
